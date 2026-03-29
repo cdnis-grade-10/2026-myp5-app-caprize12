@@ -31,6 +31,8 @@ class ViewControllerOne: UIViewController {
     
     // MARK: - IBOutlets
     
+    @IBAction func getStarted(_ sender: Any) {
+    }
     
     
     // MARK: - Variables and Constants
